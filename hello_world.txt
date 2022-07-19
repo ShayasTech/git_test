@@ -1,1 +1,3 @@
 Hello Welcome to Shayas Tech
+
+I'm stidying full stack web development from theodinproject.com
